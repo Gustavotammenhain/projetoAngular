@@ -1,0 +1,23 @@
+.titles {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+    border-radius: 5px;
+
+}
+.dvider{
+    font-size: 20px;
+    color: lightblue;
+}
+
+.circle{
+    font-size: 30px;
+    text-align: center;
+    background-color: dodgerblue;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+}
